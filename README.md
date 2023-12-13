@@ -15,6 +15,7 @@
  3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
  
  ![image](https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png)
+
  4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
  
  ![image](https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png)
@@ -36,7 +37,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![Screenshot 2023-11-17 143529](https://github.com/Shruthidn27/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138849783/c8662b71-94d3-4aa0-ab0e-bbf80fbe4270)
+![Screenshot 2023-12-13 122729](https://github.com/Shruthidn27/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138849783/65b597ba-0cbb-4c85-905f-3333717cdcf5)
 
  
  ## RESULT
